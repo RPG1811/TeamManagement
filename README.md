@@ -7,4 +7,5 @@
 
 ## Install frontend
 1. npm install or yarn install
-2. npm start or yarn start
+2. edit FetchLink.js
+3. npm start or yarn start
